@@ -109,6 +109,10 @@
     nums[i].onclick = setNum;
   }
 
+  function ex() {
+    return true;
+  }
+  
   // Add click event to operators
   for (var i = 0, l = ops.length; i < l; i++) {
     ops[i].onclick = moveNum;

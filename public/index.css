@@ -15,6 +15,10 @@ body {
   text-align: center;
 }
 
+br {
+  color: white;
+}
+
 h1 {
   font-weight: 300;
   margin: 0;
